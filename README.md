@@ -1,5 +1,5 @@
 ##介绍
-**仿照生鲜首页的Weex Demo，集成Weex**， [iOS地址](https://github.com/mingabc/weex_home_ios_example)，Android待上传
+**仿照生鲜首页的Weex Demo，集成Weex**， [iOS地址](https://github.com/mingabc/weex_home_ios_example)
 
 ## 功能点:
 * 电商首页布局
